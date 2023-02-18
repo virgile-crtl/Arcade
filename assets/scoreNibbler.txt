@@ -1,0 +1,11 @@
+lamenace: 56
+teo: 45
+bilou: 34
+s2: 23
+martine: 67
+jen-luc: 29
+elonMusk: 37
+Tyrion: 120
+theon: 0
+arya: 2000
+jon: 1999

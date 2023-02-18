@@ -1,0 +1,23 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+Xo...........X...........oX
+X.XXXX.XXXXX.X.XXXXX.XXXX.X
+X.XXXX.XXXXX.X.XXXXX.XXXX.X
+X.XXXX.XXXXX.X.XXXXX.XXXX.X
+X.........................X
+X.XXXX.X.XXXXXXXXX.X.XXXX.X
+X......X.....X.....X......X
+XXXXXX.XXXXX.X.XXXXX.XXXXXX
+     X.X...........X.X     
+XXXXXX.X.XXXSSSXXX.X.XXXXXX
+ ........X E  E  X........ 
+XXXXXX.X.XE    E X.X.XXXXXX
+     X.X.X       X.X.X     
+XXXXXX.X.XXXXXXXXX.X.XXXXXX
+X............P............X
+X.XXXX.XXXXX.X.XXXXX.XXXX.X
+X....X...............X....X
+XXXX.X.X.XXXXXXXXX.X.X.XXXX
+X......X.....X.....X......X
+X.XXXXXXXXXX.X.XXXXXXXXXX.X
+Xo.......................oX
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
