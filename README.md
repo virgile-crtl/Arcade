@@ -5,4 +5,4 @@ this Epitech project aims to develop a program including several games and graph
 
 # Build
 
-    ```make```
+    make
