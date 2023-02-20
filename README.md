@@ -21,4 +21,5 @@ this Epitech project aims to develop a program including several games and graph
 # Controle
 
 to change graphics library use tab
+
 to choose your game and play use the arrows
