@@ -22,7 +22,6 @@ Menu::Menu(std::string& filepath)
         if (tmp == filepath)
             continue;
         typeFile = checkFile(tmp);
-        std::cout << tmp << std::endl;
         if (typeFile == libgraph)
             libsGraph.push_back(tmp);
         else if (typeFile == libgame)

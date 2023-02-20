@@ -6,7 +6,7 @@ this Epitech project aims to develop a program including several games and graph
     make
     sdl2
     sfml
-    ncurse
+    ncurses
     g++
 
 # Build
@@ -15,4 +15,10 @@ this Epitech project aims to develop a program including several games and graph
 
 # Execution
 
-    ./arcade ./lib/arcade_ncurses
+    ./arcade ./lib/graph/arcade_sfml.so
+                        |arcade_ncurses.so
+
+# Controle
+
+to change graphics library use tab
+to choose your game and play use the arrows
