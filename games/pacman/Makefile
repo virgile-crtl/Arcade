@@ -31,14 +31,14 @@ all:	$(NAME)
 
 $(NAME):	$(OBJ)
 	@$(CC) -o $(NAME) $(OBJ) $(CXXFLAGS) $(CPPFLAGS)
-	@$(CP) $(NAME) ../../lib/
+	@$(CP) $(NAME) ../../lib/game/
 
 clean:
 	@$(RM) $(OBJ)
 
 fclean:	clean
 	@$(RM) $(NAME)
-	@$(RM) ../../lib/$(NAME)
+	@$(RM) ../../lib/game/$(NAME)
 
 re: fclean all
 

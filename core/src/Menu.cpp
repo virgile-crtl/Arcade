@@ -10,9 +10,11 @@
 
 Menu::Menu(std::string& filepath)
 {
-    std::vector<std::string> files = getFiles("lib/");
+    std::vector<std::string> files = getFiles("lib/game/");
+    std::vector<std::string> gr = getFiles("lib/graph/");
     typeLib typeFile;
 
+    files.insert(files.end(), gr.begin(), gr.end());
     if (checkFile(filepath) != libgraph)
         throw Error(filepath+": not a grahical library.");
     libsGraph.push_back(filepath);
@@ -20,6 +22,7 @@ Menu::Menu(std::string& filepath)
         if (tmp == filepath)
             continue;
         typeFile = checkFile(tmp);
+        std::cout << tmp << std::endl;
         if (typeFile == libgraph)
             libsGraph.push_back(tmp);
         else if (typeFile == libgame)

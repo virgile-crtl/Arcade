@@ -32,14 +32,14 @@ all:	$(NAME)
 
 $(NAME):	$(OBJ)
 	@$(CC) -o $(NAME) $(OBJ) $(CXXFLAGS) $(CPPFLAGS) $(NCURSEFLAGS)
-	@$(CP) $(NAME) ../../lib/
+	@$(CP) $(NAME) ../../lib/graph/
 
 clean:
 	@$(RM) $(OBJ)
 
 fclean:	clean
 	@$(RM) $(NAME)
-	@$(RM) ../../lib/$(NAME)
+	@$(RM) ../../lib/graph/$(NAME)
 
 re: fclean all
 
